@@ -1,0 +1,10 @@
+.ui-block-a,.ui-block-b, .ui-block-c {
+font-size: 30px;
+color:rgba(0, 0, 102, 0.8);
+//text-shadow: 0.1em 0.1em #333;
+text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+		0 0 0.2em #87F;
+}
+
+
+
